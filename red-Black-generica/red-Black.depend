@@ -1,0 +1,40 @@
+# depslib dependency file v1.0
+1526846023 source:e:\onedrive\ifmg-desktop-all7jb1\perildo 5\paa\red-black\red-black\main.c
+	<stdio.h>
+	<stdlib.h>
+	"red-black.h"
+
+1526845947 e:\onedrive\ifmg-desktop-all7jb1\perildo 5\paa\red-black\red-black\red-black.h
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
+1526845947 source:e:\onedrive\ifmg-desktop-all7jb1\perildo 5\paa\red-black\red-black\red-black.c
+	"red-black.h"
+
+1526846023 source:c:\users\leandro\desktop\red-black\main.c
+	<stdio.h>
+	<stdlib.h>
+	"red-black.h"
+
+1526845947 c:\users\leandro\desktop\red-black\red-black.h
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
+1526845947 source:c:\users\leandro\desktop\red-black\red-black.c
+	"red-black.h"
+
+1527125213 source:c:\users\leandro\desktop\red-black generica\main.c
+	<stdio.h>
+	<stdlib.h>
+	"red-black.h"
+
+1526845947 c:\users\leandro\desktop\red-black generica\red-black.h
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
+1526845947 source:c:\users\leandro\desktop\red-black generica\red-black.c
+	"red-black.h"
+
